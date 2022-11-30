@@ -8,7 +8,7 @@
 ***
 
 ### About myself:
-_ I start lern web developmend._
+_ I start learn web developmend._
 
 ***
 
