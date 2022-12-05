@@ -18,11 +18,11 @@ _I start learn web developmend._
 ***
 
 ### Сode example:
-```      
+```
 function showMessage() {
   alert(' Hello World ' );
 }
-```    
+```
 ***
 
 ### Work experience:
@@ -33,7 +33,7 @@ _I have cv.md_
 
 ### Education:
 
-_**2010-2015 г.** - Belarusian-Russian University: civil engineer_  
+_**2010-2015 г.** - Belarusian-Russian University: civil engineer_
 
 
 ***
