@@ -1,0 +1,83 @@
+html{
+    font-family: 'Montserrat', sans-serif;
+}
+body ul{
+    list-style-type: none;
+}
+body a{
+    color: black;
+    text-decoration: none;
+}
+.wrapper{
+    color: black;
+    max-width: 1200px;
+    margin: 0 auto;
+    background: burlywood;
+    display: flex;
+    flex-direction: column;
+}
+header{
+    max-width: 100%;
+    height: 90px;
+}
+.header_container{
+    max-width: 1000px;
+    height: 100%;
+}
+.header_row{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+.header a:hover{
+    color: white;
+}
+.info{
+    max-width: 100%;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 300px;
+}
+.main_container{
+    margin-left: 480px;
+}
+.Summary{
+    max-width: 100%;
+    height: 90px;
+}
+.Contacts{
+    max-width: 100%;
+    height: 90px;
+}
+.Skills{
+    max-width: 100%;
+    height: 90px;
+}
+.Code{
+    max-width: 100%;
+    height: 90px;
+}
+.Education{
+    max-width: 100%;
+    height: 90px;
+}
+.Project{
+    max-width: 100%;
+    height: 90px;
+}
+.English{
+    max-width: 100%;
+    height: 90px;
+}
+footer{
+    max-width: 100%;
+    height: 120px;
+    margin: 0 150px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
