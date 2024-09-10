@@ -1,3 +1,43 @@
-body{
-  
+body {
+  background-color: #f1f1f1;
+  color: #0f141e;
+  /*font-size: 16px;
+  font-weight: normal;
+  font-family: "Roboto", system-ui*/
+  font: normal 16px "Roboto", system-ui;
+  /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+  .avatar {
+    width: 300px;
+    border-radius: 50%;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.25);
+  }
 }
+.info p {
+color: #86898f;
+margin: 0;
+font-style: italic;
+font-weight: bold;
+text-decoration: none;
+/*text-transform: capitalize;*/
+/* word-spacing: 16px; */
+}
+.container {
+   max-width: 750px; 
+   margin: auto;
+} 
+.social {
+background: green;
+padding: 15px 40px;
+border: 5px solid red;
+margin: 5px;
+border-bottom-style: dotted;
+border-top-width: 15px; 
+border-right-color: blue;
+}  
+.box-model > div {
+    float: left;
+background:black;
+height: 200px;
+width: 25%;
+}
+
